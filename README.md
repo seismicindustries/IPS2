@@ -7,6 +7,7 @@ feel free to use for your own - no groupbuys please.
 ask me if you wanna buy a panel & pcb. im gonna make some.
 
 ![alt text](https://raw.githubusercontent.com/seismicindustries/IPS2/master/render/IPS2_usb_c_front_render_wide_psd.jpg)
+![alt text](https://raw.githubusercontent.com/seismicindustries/IPS2/master/render/IPS2_usb_c_perspective_render_wide.png)
 
 License
 =======
