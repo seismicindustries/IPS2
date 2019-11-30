@@ -1,0 +1,29 @@
+Refs,Value,Footprint,QTY,MFR,MPN,SPR,SPN
+J6;J5,GS2,Connectors:GS2,2,,,,
+C1,22u,raffilibkicad:CP_Elec_7.3x4.3,1,Panasonic,EEF-CX1D220R,Mouser,667-EEF-CX1D220R
+C3,100n,raffilibkicad:C_0603,1,Kemet,C0603C104Z3VACTU,Mouser,80-C0603C104Z3V
+C4,10n,raffilibkicad:C_0603,1,Wuerth,885012206065,Mouser,710-885012206065
+C7,220n,raffilibkicad:C_0603,1,Yageo,CC603KRX7R7BB224,Mouser,603-CC603KRX7R7BB224
+C5,4n7,raffilibkicad:C_0603,1,Wuerth,885012206087,Mouser,710-885012206087
+C8,6p8,raffilibkicad:C_0603,1,Wuerth,885012006050,Mouser,710-885012006050
+C6,7p5,raffilibkicad:C_0603,1,Murata,GRM1885C1H7R5BA1D,Mouser,81-GRM1885C1H7R5BA1D
+C2;C11,4u7,raffilibkicad:C_0805,2,Murata,GRM21BR61H475KE51L,Mouser,81-GRM21BR61H475KE1L
+D3;D4,LED,raffilibkicad:C_0805,2,Kingbright,APT2012SGC,Mouser,604-APT2012SGC
+C12;C15;C17;C19;C13;C14;C16;C18,6u8,raffilibkicad:C_1206,8,TDK,C3216X7R1E685K160AB,Mouser,810-C3216X7R1E685K
+D1;D2,NRVTS245,raffilibkicad:D_SOD-123F,2,ON Semiconductor,NRVTS245ESFT3G,Mouser,863-NRVTS245ESFT3G
+L1;L2,4u7,raffilibkicad:Inductor_SRN4018TA_bourns,2,Bourns,SRN4018TA-4R7M,Mouser,652-SRN4018TA-4R7M
+J2,CONN_01X02_MALE,raffilibkicad:Pin_Header_Angled_1x02_Pitch2.54mm,1,,,,
+J3,CONN_01X02_MALE,raffilibkicad:Pin_Header_Angled_2x01_Pitch2.54mm,1,,,,
+P1,CONN_02X05,raffilibkicad:Pin_Header_Angled_2x05_Pitch2.54mm_with_space_for_con,1,Amphenol FCI,649-68020-110HLF,Mouser,68020-110HLF
+U1,TPS65131,raffilibkicad:QFN-24-4x4mm_Pitch0.5mm_handsolder_big_thermal_hole,1,Texas,TPS65131RGER,Mouser,595-TPS65131RGER
+R1,100,raffilibkicad:R_0603,1,Vishay,CRCW0603100RFKEAC,Mouser,71-CRCW0603100RFKEAC
+R2,100k,raffilibkicad:R_0603,1,Vishay / Draloric,RCA0603100KJNEC,Mouser,71-RCA0603100KJNEC
+R5,110k,raffilibkicad:R_0603,1,Bourns,CR0603-FX-1103ELF,Mouser,652-CR0603FX-1103ELF
+R4;R3,1M,raffilibkicad:R_0603,2,Yageo,RC0603FR-071ML,Mouser,603-RC0603FR-071ML
+R6;R7;R9;R11;R8;R10,1k,raffilibkicad:R_0603,6,Yageo,RC0603FR-071KL,Mouser,603-RC0603FR-071KL
+R12,51k,raffilibkicad:R_0603,1,Yageo,RC0603FR-0751KL,Mouser,603-RC0603FR-0751KL
+Q1;Q2,Q_NPN_BEC,raffilibkicad:SOT-23,2,ON Semiconductor,BC847CLT1G,Mouser,863-BC847CLT1G
+T2;T1;T3;T4;T5;T6;T7;T8,TESTPIN,raffilibkicad:TESTPAD_SMD_and_THT_SQR,8,,,,
+J1;J4,USB_C_Receptacle,raffilibkicad:USB_TYPE_C_WUERTH_632723300011,2,Wurth ,632723300011,Mouser,710-632723300011
+T9;T10;T11,TESTPIN,raffilibkicad:VIA_M3_mounting_hole,3,,,,
+SHUT_P1;SHUT_M1,JACK_QINGPU,raffilibkicad:jack_qingpu,2,,,,
